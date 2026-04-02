@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="assets/dashboard_overview.png" width="95%">
+  
 </p>
 
 ---
@@ -183,7 +183,7 @@ Dashboard & Insights
 The dashboard below translates analytical findings into an interpretable, governance-ready decision support system.
 
 <p align="center">
-  <img src="assets/dashboard_overview.png" width="92%">
+
   <br>
   <em>
     National-level analytics overview presenting enrolment volumes, demographic and biometric updates,
@@ -194,7 +194,7 @@ The dashboard below translates analytical findings into an interpretable, govern
 ---
 
 <p align="center">
-  <img src="assets/state_comparison.png" width="92%">
+  
   <br>
   <em>
     Comparative state performance dynamics integrating enrolment intensity with demographic,
@@ -205,7 +205,7 @@ The dashboard below translates analytical findings into an interpretable, govern
 ---
 
 <p align="center">
-  <img src="assets/pca_risk_clustering.png" width="85%">
+  
   <br>
   <em>
     PCA-based district risk clustering segmenting operational regions into low, medium,
@@ -216,7 +216,7 @@ The dashboard below translates analytical findings into an interpretable, govern
 ---
 
 <p align="center">
-  <img src="assets/audit_table_risk_levels.png" width="96%">
+ 
   <br>
   <em>
     District-level audit and behavioral diagnostics enabling granular inspection of enrolments,
