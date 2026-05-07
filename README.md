@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Anomaly%20Detection-Statistical-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Project%20Status-Completed-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge">
-  <img src=""C:\Users\karan\Downloads\Karan Portfolio\Karan\src\assets\images\UIDAI IMAGE.png"">
+  <img src="https://kommodo.ai/i/h5bupfhEYVCCFTYHTFnR">
 </p>
 
 
